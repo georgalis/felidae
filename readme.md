@@ -41,9 +41,9 @@ matures. It is loosly based on the "Delivery Controls"
 and "Objective Improvement" slides in this operations deck
 https://github.com/georgalis/pub/blob/master/know/Operations.pdf
 
-![Delivery Controls](./plan/DeliveryControls.jpg)
+![Delivery Controls](plan/DeliveryControls.jpg)
 
-![Objective Improvement](./plan/ObjectiveImprovement.jpg)
+![Objective Improvement](plan/ObjectiveImprovement.jpg)
 
 * Major
   * Viability (Risk)
@@ -69,28 +69,27 @@ https://github.com/georgalis/pub/blob/master/know/Operations.pdf
 * Instantiation - hardware disaster recovery
 * Diagnostic - event logs, repair table
 * Extendability - future flexability
-* reliability - robust
-* ease of use - low barrier use
-* implementation cost
-* ongoing cost
+* Reliability - robust
+* Ease of use - low barrier use
+* Implementation cost
+* Ongoing cost
 ####  Twin (Design)
 * Glacier - low cost disaster storage, 
   * https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html
   * https://aws.amazon.com/glacier/pricing/
-* data
-  * schema
-  * flows
-![Felidae-Flows](./plan/Felidae-Flows.png)
-  * translation (old to new format)
-* web interface - user zero install
-  * workflows
-  * markup
+* Data
+  * Schema
+  * Flows [Felidae-Flows](plan/Felidae-Flows.pdf)
+  * Translation (old to new format)
+* Web interface - user zero install
+  * Workflows
+  * Markup
 ####  Administer (Execute)
 ####  Performance (Check)
 ###  Meta
 ####  Compliance (Risk)
 ####  Primitive (Design)
-* components
+* Components
 ####  Registration (Execute)
 * Requirement Traceability Matrix
 ####  Function (Check)

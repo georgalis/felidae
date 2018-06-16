@@ -80,6 +80,7 @@ https://github.com/georgalis/pub/blob/master/know/Operations.pdf
 * data
   * schema
   * flows
+![Felidae-Flows][plan/Felidae-Flows.png]
   * translation (old to new format)
 * web interface - user zero install
   * workflows

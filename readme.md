@@ -41,9 +41,9 @@ matures. It is loosly based on the "Delivery Controls"
 and "Objective Improvement" slides in this operations deck
 https://github.com/georgalis/pub/blob/master/know/Operations.pdf
 
-![Delivery Controls][./plan/DeliveryControls.jpg]
+![Delivery Controls](./plan/DeliveryControls.jpg)
 
-![Objective Improvement][./plan/ObjectiveImprovement.jpg]
+![Objective Improvement](./plan/ObjectiveImprovement.jpg)
 
 * Major
   * Viability (Risk)
@@ -80,7 +80,7 @@ https://github.com/georgalis/pub/blob/master/know/Operations.pdf
 * data
   * schema
   * flows
-![Felidae-Flows][./plan/Felidae-Flows.png]
+![Felidae-Flows](./plan/Felidae-Flows.png)
   * translation (old to new format)
 * web interface - user zero install
   * workflows

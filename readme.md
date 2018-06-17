@@ -3,27 +3,27 @@
 This repository is a work plan and source code product for
 Felidae information services. http://www.felidaefund.org/
 
-A critical aspect of Felidae research is motion sensing, video
-and still cameras, placed in remote locations. Mountain lions,
-bobcats, owls, possum, deer, skunk, rats, rabbits and humans
-are captured; in addition to leaves rustling in the breeze and
-similar false triggers. Categorization and ratios of activities, in
-different locations, noninvasive measures the health and vitality
-of the ecology. But, the categorization of retrieved media is currently a
-labor and time intensive task, and a critical bottleneck for the
-research.
+A critical aspect of Felidae research is natural habitat image
+capture, by motion sensing video and still cameras. Mountain
+lions, bobcats, owls, possum, deer, skunk, rats, rabbits and
+humans are captured by cameras in remote locations, in addition to
+leaves rustling in the breeze and similar false triggers. Ratios
+of activities, through image categorization, noninvasively
+measures ecology health and vitality. But, categorization of
+retrieved media is a time intensive task, currently a
+critical bottleneck for the research.
 
-This data flow scales and improves the existing Felidae camera trap to data report process.
+This data flow refresh scales and improves the existing Felidae camera trap to data report process.
 Automation is used to standardize formats and accelerate the pipeline wherever possible.
 Modular, discrete components are designed to meet today's needs and remain flexable for future changing needs and scale.
 
-The key enhancements driving this information flow update are
+The key enhancements driving this information flow update are:
 * Integration of [TensorFlow](http://www.tensorflow.org/) machine learning to auto categorize the images.
 * Metadata, schema, and flow standardization to facilitate [R Project](http://www.r-project.org) statistical analysis.
 * Data Query and Access simplification, to facilitate 3rd party research collaboration.
 * Improved backup pipeline for disaster recovery.
 
-## Overview
+## Refresh Overview
 
 Images and video are recorded in strategically placed camera traps.
 Periodically the memory cards are retrieved and needful field data is noted.
@@ -37,16 +37,16 @@ Any number of Raspberry Pi class devices may be used with an expected to cost of
 
 ## Design
 ### Glossary
-Major
-Minor
-Unit
-Risk
-Plan
-Execution
-Check
-Early
-Middle
-Final
+  Major
+  Minor
+  Unit
+  Risk
+  Plan
+  Execution
+  Check
+  Early
+  Middle
+  Final
 
 ### Process
 Since this product is implemented and consumed primarily by
@@ -78,10 +78,10 @@ https://github.com/georgalis/pub/blob/master/know/Operations.pdf
   * Administer (Execute) - implementation report
   * Performance (Check) - utility validation
 * Meta - Major to Unit translation
-  * Compliance (Risk) - Design to Implementation alignment
+  * Compliance (Risk) - plan implementation
   * Primitive (Design) - building blocks
-  * Registration (Execute) - names and components
-  * Function (Check) - design built check
+  * Registration (Execute) - resource provisioning
+  * Function (Check) - design/built alignment
 * Unit
   * Improve (Risk) - identify gaps
   * Specification (Design) - configuration and automation
@@ -89,10 +89,14 @@ https://github.com/georgalis/pub/blob/master/know/Operations.pdf
   * Test (Check) - confirm specification
 * Product
 
-###  Major
-New remote device connects to domestic internet and receives camera trap media, integrates with data entered through web interface and uploads to master. Master device receives remote device data, initiates backup, supports TensorFlow training, facilitates query and export.
+### Major
 
-  
+New remote device connects to domestic internet and receives
+camera trap media, integrates with data entered through web
+interface and uploads to master. Master device receives remote
+device data, initiates backup, supports TensorFlow training,
+facilitates query and export.
+
 ####  Viability (Risk)
 * Hardware Disaster Recovery
 * Data Disaster Recovery
@@ -147,7 +151,8 @@ New remote device connects to domestic internet and receives camera trap media, 
 * Vendors
 * Bootstrap
 * Configuration Management
+* Implementation Report
 ####  Test (Check)
 ###  Product
 
-
+`,,,^..^,,,~`

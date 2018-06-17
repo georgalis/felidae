@@ -1,6 +1,6 @@
 # Event Journal
 
-* 20180616 6:00 hours documentation development
+* 20180616 6:30 hours documentation development
 * 20180615 5:15 hours documentation development
 
 * Fri Jun 15, 2018 2:15pm - 3:15pm (PDT)

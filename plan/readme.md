@@ -1,6 +1,7 @@
 
 AWS tools align flows, with value pricing. Archive for archive, S3 for simple storage share, ESB for elastic, ingest new data to S3 and drop duplicates.
 
+```
   1) Program an Ingest tool
   2) Ingest the RAID to a Snowball
   3) Snowball to S3
@@ -12,8 +13,11 @@ AWS tools align flows, with value pricing. Archive for archive, S3 for simple st
   8) Archive newer S3 data to Glacier
   9) Drop duplicate data (cold S3 or redundant Glacier)
   10) Repeat step 6
+```
 
 Glossary:
+
+```
   Ingest : Software tool, to index file data (RAID of EBS) and upload to S3 URL
   URL: Uniform Resource Locator, eg http://feildae.amazon.com/12345678/file.csv or http://feildae.amazon.com/12345678/file.mpg
   S3 : Simple Cloud Storage Service?
@@ -22,6 +26,7 @@ Glossary:
   Snowball : S3 Shipping Storage
   Glacier : Cold storage (secure, durable, and extremely low-cost cloud storage) for data archiving and long-term backup.
   Sample : Extract fractional selection of data
+```
 
 We keep the hot data hot, warm data warm, cold data cold, and drop the duplicates. 
 

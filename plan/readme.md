@@ -26,8 +26,8 @@ Glossary:
   RAID : USB Storage
   EBS : Amazon Elastic Block Storage
   Snowball : S3 Shipping Storage
-  Glacier : Cold storage (secure, durable, and extremely low-cost cloud storage)
-    for data archiving and long-term backup.
+  Glacier : Cold storage for data archiving and long-term backup.
+     (secure, durable, and extremely low-cost cloud storage)
   Sample : Extract fractional selection of data
 ```
 

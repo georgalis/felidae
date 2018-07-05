@@ -19,12 +19,15 @@ Glossary:
 
 ```
   Ingest : Software tool, to index file data (RAID of EBS) and upload to S3 URL
-  URL: Uniform Resource Locator, eg http://feildae.amazon.com/12345678/file.csv or http://feildae.amazon.com/12345678/file.mpg
+  URL: Uniform Resource Locator,
+     eg http://feildae.amazon.com/12345678/file.csv
+     or http://feildae.amazon.com/12345678/file.mpg
   S3 : Simple Cloud Storage Service?
   RAID : USB Storage
   EBS : Amazon Elastic Block Storage
   Snowball : S3 Shipping Storage
-  Glacier : Cold storage (secure, durable, and extremely low-cost cloud storage) for data archiving and long-term backup.
+  Glacier : Cold storage (secure, durable, and extremely low-cost cloud storage)
+    for data archiving and long-term backup.
   Sample : Extract fractional selection of data
 ```
 

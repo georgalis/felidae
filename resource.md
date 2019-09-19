@@ -2,10 +2,11 @@
 
 ---
 __Table of Contents__
+* [Resources](resource.md#Resources)
   * [PYTHON](resource.md#PYTHON)
-    * [PYTHON LIBRARIES](resource.md#PYTHONLIBRARIES)
+    * [LIBRARIES](resource.md#LIBRARIES)
   * [TENSORFLOW](resource.md#TENSORFLOW)
-    * [On github.org](resource.md#Ongithub.org)
+    * [GITHUB](resource.md#GITHUB)
     * [INSTALL](resource.md#INSTALL)
     * [TUTORIALS](resource.md#TUTORIALS)
       * [KERAS](resource.md#KERAS)
@@ -24,7 +25,7 @@ __Table of Contents__
   * https://www.python.org/downloads/mac-osx/
 
 
-### PYTHON LIBRARIES
+### LIBRARIES
 * Data Visualization, Graphing Library, https://matplotlib.org/
 * Numbers, Arrays, Calc, Formulas, https://numpy.org/
 * https://www.tensorflow.org/guide/keras
@@ -32,11 +33,11 @@ __Table of Contents__
 ## TENSORFLOW
 * https://www.tensorflow.org/
 
-### On github.org
-https://github.com/tensorflow/tensorflow
+### GITHUB
+* https://github.com/tensorflow/tensorflow
 
 ### INSTALL
-* Install, https://www.tensorflow.org/install/pip
+* https://www.tensorflow.org/install/pip
 
 ### TUTORIALS
 * https://www.tensorflow.org/tutorials
@@ -62,8 +63,7 @@ Ornithology image library
 
 ## EXAMPLES
 * Fashion MNIST
-  * Discern between shirts, shoes
-  * https://github.com/priyanka-kasture/Fashion-MNIST-Classification
+  * Discern between shirts, shoes https://github.com/priyanka-kasture/Fashion-MNIST-Classification
 
 
 ## Computer Vision and Pattern Recognition

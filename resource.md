@@ -20,8 +20,8 @@ __Table of Contents__
 
 ## PYTHON
 * Versions download
- * https://www.python.org/downloads/
- * https://www.python.org/downloads/mac-osx/
+  * https://www.python.org/downloads/
+  * https://www.python.org/downloads/mac-osx/
 
 
 ### PYTHON LIBRARIES
@@ -50,9 +50,9 @@ https://github.com/tensorflow/tensorflow
 
 ## Google Cloud Platform
 * https://cloud.google.com/
- * Upper right corner, sign in using your Google acct.
- * Upper right, select console
- * Upper left Navigation Menu
+  * Upper right corner, sign in using your Google acct.
+  * Upper right, select console
+  * Upper left Navigation Menu
 
 
 ## CONTENT

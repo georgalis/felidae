@@ -2,7 +2,8 @@
 
 ---
 __Table of Contents__
-  * [PYTHON.ORG](resource.md#PYTHON.ORG)
+* [Resources](resource.md#Resources)
+  * [PYTHON](resource.md#PYTHON)
     * [PYTHON LIBRARIES](resource.md#PYTHONLIBRARIES)
   * [TENSORFLOW](resource.md#TENSORFLOW)
     * [On github.org](resource.md#Ongithub.org)
@@ -10,7 +11,7 @@ __Table of Contents__
     * [TUTORIALS](resource.md#TUTORIALS)
       * [KERAS](resource.md#KERAS)
       * [BAZEL](resource.md#BAZEL)
-  * [GCP](resource.md#GCP)
+  * [Google Cloud Platform](resource.md#GoogleCloudPlatform)
   * [CONTENT](resource.md#CONTENT)
   * [EXAMPLES](resource.md#EXAMPLES)
   * [Computer Vision and Pattern Recognition](resource.md#ComputerVisionandPatternRecognition)
@@ -18,7 +19,7 @@ __Table of Contents__
     * [News](resource.md#News)
 ---
 
-## PYTHON.ORG
+## PYTHON
 * Versions download
  * https://www.python.org/downloads/
  * https://www.python.org/downloads/mac-osx/
@@ -48,7 +49,7 @@ https://github.com/tensorflow/tensorflow
 * https://bazel.build
 * https://docs.bazel.build/versions/master/install-os-x.html
 
-## GCP
+## Google Cloud Platform
 * https://cloud.google.com/
  * Upper right corner, sign in using your Google acct.
  * Upper right, select console

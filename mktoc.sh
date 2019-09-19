@@ -6,7 +6,6 @@ mktoc () { # markdown.md as arg1
 # edit TOC at bottom of file into top and push to github
 # MVP 
     md="$1"
-    echo "---"
     echo "__Table of Contents__"
     grep '^#' "$md" | while read h; do
         name="$(echo "$h" | sed -e 's/#//g' -e 's/^[ ]*//' -e 's/[ ]*$//' )" 

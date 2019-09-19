@@ -1,6 +1,5 @@
 # Resources
 
----
 __Table of Contents__
 * [Resources](resource.md#Resources)
   * [PYTHON](resource.md#PYTHON)
@@ -57,14 +56,11 @@ __Table of Contents__
 
 
 ## CONTENT
-Ornithology image library
-* https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First
-
+* [Ornithology image library](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First)
 
 ## EXAMPLES
 * Fashion MNIST
-  * Discern between shirts, shoes https://github.com/priyanka-kasture/Fashion-MNIST-Classification
-
+  * [Discern between shirts, shoes](https://github.com/priyanka-kasture/Fashion-MNIST-Classification)
 
 ## Computer Vision and Pattern Recognition
 
@@ -72,6 +68,6 @@ Ornithology image library
 * https://arxiv.org/list/cs.CV/recent
 
 ### News
-* Facial Recog in 'chimps'
-https://news.developer.nvidia.com/to-help-with-animal-conservation-efforts-ai-can-now-help-identify-chimpanzees/
+* [Facial Recog in 'chimps'](https://news.developer.nvidia.com/to-help-with-animal-conservation-efforts-ai-can-now-help-identify-chimpanzees/)
+* [AI System to Locate Vehicles per geography and time from traffic cams, given sample image](https://news.developer.nvidia.com/researchers-developed-an-ai-system-that-can-help-locate-missing-vehicles/)
 

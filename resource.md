@@ -1,10 +1,11 @@
 # Resources
 
-# Table of Contents
+---
+__Table of Contents__
   * [PYTHON.ORG](resource.md#PYTHON.ORG)
-    * [PYTHON LIBRARIES](resource.md#PYTHON LIBRARIES)
+    * [PYTHON LIBRARIES](resource.md#PYTHONLIBRARIES)
   * [TENSORFLOW](resource.md#TENSORFLOW)
-    * [On github.org](resource.md#On github.org)
+    * [On github.org](resource.md#Ongithub.org)
     * [INSTALL](resource.md#INSTALL)
     * [TUTORIALS](resource.md#TUTORIALS)
       * [KERAS](resource.md#KERAS)
@@ -12,9 +13,10 @@
   * [GCP](resource.md#GCP)
   * [CONTENT](resource.md#CONTENT)
   * [EXAMPLES](resource.md#EXAMPLES)
-  * [Computer Vision and Pattern Recognition](resource.md#Computer Vision and Pattern Recognition)
-    * [Current papers](resource.md#Current papers)
+  * [Computer Vision and Pattern Recognition](resource.md#ComputerVisionandPatternRecognition)
+    * [Current papers](resource.md#Currentpapers)
     * [News](resource.md#News)
+---
 
 ## PYTHON.ORG
 * Versions download

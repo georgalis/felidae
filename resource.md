@@ -2,7 +2,6 @@
 
 ---
 __Table of Contents__
-* [Resources](resource.md#Resources)
   * [PYTHON](resource.md#PYTHON)
     * [PYTHON LIBRARIES](resource.md#PYTHONLIBRARIES)
   * [TENSORFLOW](resource.md#TENSORFLOW)

@@ -1,22 +1,20 @@
+# Resources
+
 # Table of Contents
- * [Resources](resource.md#Resources)
   * [PYTHON.ORG](resource.md#PYTHON.ORG)
-   * [PYTHON LIBRARIES](resource.md#PYTHON LIBRARIES)
+    * [PYTHON LIBRARIES](resource.md#PYTHON LIBRARIES)
   * [TENSORFLOW](resource.md#TENSORFLOW)
-   * [On github.org](resource.md#On github.org)
-   * [INSTALL](resource.md#INSTALL)
-   * [TUTORIALS](resource.md#TUTORIALS)
-    * [KERAS](resource.md#KERAS)
-    * [BAZEL](resource.md#BAZEL)
+    * [On github.org](resource.md#On github.org)
+    * [INSTALL](resource.md#INSTALL)
+    * [TUTORIALS](resource.md#TUTORIALS)
+      * [KERAS](resource.md#KERAS)
+      * [BAZEL](resource.md#BAZEL)
   * [GCP](resource.md#GCP)
   * [CONTENT](resource.md#CONTENT)
   * [EXAMPLES](resource.md#EXAMPLES)
   * [Computer Vision and Pattern Recognition](resource.md#Computer Vision and Pattern Recognition)
-   * [Current papers](resource.md#Current papers)
-   * [News](resource.md#News)
- * [Table of Contents](resource.md#Table of Contents)
-
-# Resources
+    * [Current papers](resource.md#Current papers)
+    * [News](resource.md#News)
 
 ## PYTHON.ORG
 * Versions download
@@ -74,3 +72,4 @@ Ornithology image library
 ### News
 * Facial Recog in 'chimps'
 https://news.developer.nvidia.com/to-help-with-animal-conservation-efforts-ai-can-now-help-identify-chimpanzees/
+

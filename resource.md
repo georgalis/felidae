@@ -40,6 +40,7 @@ __Table of Contents__
 
 ### TUTORIALS
 * https://www.tensorflow.org/tutorials
+* [Audio recognition using spectrograms]](https://www.tensorflow.org/tutorials/sequences/audio_recognition)
 
 #### KERAS
 * https://keras.io/#getting-started-30-seconds-to-keras
@@ -59,10 +60,16 @@ __Table of Contents__
 * [Ornithology image library](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First)
 
 ## EXAMPLES
-* Fashion MNIST
-  * [Discern between shirts, shoes](https://github.com/priyanka-kasture/Fashion-MNIST-Classification)
+* Fashion MNIST [Discern between shirts, shoes](https://github.com/priyanka-kasture/Fashion-MNIST-Classification)
 
 ## Computer Vision and Pattern Recognition
+
+### Applying model on Mobile device
+Once model is built, can be tested on mobile device.
+* [Android Camera Demo](https://github.com/tensorflow/tensorflow/blob/r1.15/tensorflow/examples/android/README.md)
+
+### Xcode and Swift Topics
+* (Image Classification)[https://developer.apple.com/documentation/vision/classifying_images_with_vision_and_core_ml]
 
 ### Current papers
 * https://arxiv.org/list/cs.CV/recent
@@ -70,4 +77,27 @@ __Table of Contents__
 ### News
 * [Facial Recog in 'chimps'](https://news.developer.nvidia.com/to-help-with-animal-conservation-efforts-ai-can-now-help-identify-chimpanzees/)
 * [AI System to Locate Vehicles per geography and time from traffic cams, given sample image](https://news.developer.nvidia.com/researchers-developed-an-ai-system-that-can-help-locate-missing-vehicles/)
+
+----
+
+## WORKFLOWS
+
+1. TF output
+1. .pb file/package
+1. statistical graph representation of the data set
+
+
+### TENSORFLOW TO BUILD MODEL
+* Demo [load images using tf.data and a URL](http://www.tensorflow.org/tutorials/load_data/images)
+
+### MANAGING RAW IMAGE SET
+For training and testing:
+1. Images all same size, same orientation horiz or vert
+1. Put copyright in images or metadata
+1. Select 80%-90% images for training model, remaining to test against
+  * some with some without animals
+
+
+
+
 

@@ -1,5 +1,7 @@
 # Felidae Information Flows 
 
+###### Felidae AI/ML image classifier
+
 This repository is a work plan and source code product for
 Felidae information services. http://www.felidaefund.org/
 

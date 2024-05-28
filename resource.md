@@ -98,6 +98,10 @@ For training and testing:
   * some with some without animals
 
 
+* https://www.tensorflow.org/tutorials/images/classification
+* http://download.tensorflow.org/example_images/flower_photos.tgz
 
-
+*https://docs.docker.com/storage/bind-mounts/
+* snap docker py 2.7 needs
+    pip2.7 install matplotlib
 
